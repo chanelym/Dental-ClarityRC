@@ -2,6 +2,10 @@
 
 Dental Clarity is a web-based patient education application designed to help patients better understand their dental diagnoses, recommended treatments, and aftercare instructions. The application translates complex dental terminology into simple, easy-to-understand explanations and provides educational visuals to help patients understand their oral health. Dental professionals can create patient profiles, select diagnoses, develop personalized treatment plans, and provide aftercare instructions. Dental Clarity also supports English and Spanish translations to make dental information more accessible. Patients can receive personalized appointment summaries by email, allowing them to review important information after leaving the dental office.
 
+## Live Site:
+[srv-dc1o8nafngtc738](https://dental-clarityrc.onrender.com)
+
+
 ## Features
 
 **Patient Profiles:** Create and manage patient profiles containing patient names, email addresses, and preferred languages.
